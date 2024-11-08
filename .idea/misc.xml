@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="language_mtsim" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="language_mtsim" project-jdk-type="Python SDK" />
+</project>
