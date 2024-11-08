@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 from gym_mtsim import MtSimulator, OrderType, Timeframe
 
 if __name__ == '__main__':
-    FOREX_DATA_PATH = './'
+    FOREX_DATA_PATH = '../'
     sim = MtSimulator(
         unit='USD',
         balance=10000.,

@@ -1,7 +1,6 @@
 from gym_mtsim.envs.mt_env import MtEnv, MtSimulator, OrderType
 from gymnasium.spaces import Text
-from gymnasium.spaces import Discrete
-from typing import Dict, List, Tuple, Any, Optional
+from typing import Dict, List, Any, Optional
 import numpy as np
 from datetime import datetime
 from typing import Callable, Union, Tuple
